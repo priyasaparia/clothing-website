@@ -69,9 +69,5 @@ clothing-website/
 This project is created for **educational and practice purposes only**.  
 The brand name and content used are fictional.
 
----
 
-## ⭐ Author
-
-Created by **Priya Saparia**
 
